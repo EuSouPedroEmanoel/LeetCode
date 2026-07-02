@@ -1,0 +1,12 @@
+leetcode/
+├── Easy
+│   ├── 0001-duas-somas
+│   └── 0009-numero-palindromo
+├── hard
+│   └── 0004-media-de-dois-arrays-ordenados
+└── Medium
+    ├── 0002-adicionar-dois-numeros
+    ├── 0003-maior-substring-sem-repeticao-de-caracteres
+    └── 0005-maior-substring-palindroma
+
+10 directories, 0 files
