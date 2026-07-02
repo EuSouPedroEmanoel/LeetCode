@@ -1,3 +1,6 @@
+// Compile:
+// gcc -shared -o resolucao.so -fPIC resolucao.c
+
 #include <stdio.h>
 #include <string.h>
 
