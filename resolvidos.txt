@@ -1,7 +1,11 @@
 leetcode/
 ├── Easy
 │   ├── 0001-duas-somas
-│   └── 0009-numero-palindromo
+│   ├── 0009-numero-palindromo
+│   ├── 0013-romano-para-inteiro
+│   ├── 0014-maior-prefixo_comum
+│   ├── 0020-parenteses-validos
+│   └── 0026-remover-duplicatas-de-um-array-ordenado
 ├── hard
 │   └── 0004-media-de-dois-arrays-ordenados
 └── Medium
@@ -9,4 +13,4 @@ leetcode/
     ├── 0003-maior-substring-sem-repeticao-de-caracteres
     └── 0005-maior-substring-palindroma
 
-10 directories, 0 files
+14 directories, 0 files
