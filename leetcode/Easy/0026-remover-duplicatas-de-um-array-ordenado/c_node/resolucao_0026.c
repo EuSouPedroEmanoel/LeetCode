@@ -15,8 +15,3 @@ int removeDuplicates(int *nums, int numsSize)
     }
     return (writer - nums) + 1;
 }
-
-int main()
-{
-    printf("hello world!");
-}
